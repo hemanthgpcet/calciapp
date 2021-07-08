@@ -1,5 +1,4 @@
 package com.example.calculator.basic;
-
 import static com.example.calculator.model.ResultBuilder.getResult;
 import static com.example.calculator.model.ResultBuilder.getResultFromError;
 
